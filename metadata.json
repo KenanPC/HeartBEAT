@@ -1,0 +1,5 @@
+{
+  "name": "Whoop HR Stream",
+  "description": "Connects to Whoop via BLE to stream real-time heart rate and control Spotify playback.",
+  "requestFramePermissions": ["bluetooth", "autoplay", "encrypted-media"]
+}
